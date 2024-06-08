@@ -1,4 +1,10 @@
+Name: Thota Mani Deep
+Domain: Machine Learning
+Task1: House-price-prediction
+
 # House-price-prediction
+-------------------------------
+"Machine Learning model to predict house prices using python , scikit-learn , tensorflow ."
 
 Summary of Code for House Price Prediction
 ------------------------------------------
